@@ -28,6 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   line-height: 28px;
   margin-bottom: 25px;
+  color: white;
 }
 
 .centered {
@@ -156,7 +157,7 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url(../img/header-bg.jpg) no-repeat center top;
+  background: url(../img/banner.png) no-repeat center top;
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
@@ -164,6 +165,7 @@ SECTION WRAPS
   background-position: center center;
   min-height: 500px;
   width: 100%;
+  height: 50%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
